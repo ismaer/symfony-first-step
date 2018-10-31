@@ -2,4 +2,4 @@
 
 #  path: /
 
-#  controller: App\Controller\ArticleController::homepage
+#  controller: App\Controller\ArticleController::show
